@@ -2,7 +2,7 @@
 This is for those who have trouble in building OpenCV library with CUDA.
 
 ## Version
-* OpneCV 3.1
+* OpenCV 3.1
 * CUDA 10.1
 
 ## CMake
